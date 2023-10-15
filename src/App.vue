@@ -60,7 +60,7 @@ const toggleRightDrawer = () => (rightDrawerOpen.value = !rightDrawerOpen.value)
   src: url('/fonts/LibreBodoni/LibreBodoni-Regular.ttf') format('truetype');
 }
 
-* {
+/* * {
   font-family: 'Montserrat';
-}
+} */
 </style>
